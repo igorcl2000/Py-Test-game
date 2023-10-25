@@ -1,7 +1,5 @@
 # Minecraft-Like Game with Ursina
 
-![Minecraft-Like Game](screenshot.png)
-
 Este é um projeto que demonstra um jogo estilo Minecraft, criado usando a biblioteca Python chamada Ursina. O jogo permite que você construa e destrua blocos em um ambiente 3D e é uma demonstração de como criar jogos simples usando Ursina.
 
 ## Como Jogar
